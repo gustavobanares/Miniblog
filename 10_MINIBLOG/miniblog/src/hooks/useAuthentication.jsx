@@ -124,6 +124,6 @@ export const useAuthentication = () =>{
         error,
         loading,
         logout,
-        login,
+        login
     }
 }
