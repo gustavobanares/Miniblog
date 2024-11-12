@@ -42,11 +42,11 @@ VITE_FIREBASE_API_KEY=your_api_key
 VITE_FIREBASE_AUTH_DOMAIN=your_auth_domain
 VITE_FIREBASE_PROJECT_ID=your_project_id
 ```
-4. Start the development server:
+5. Start the development server:
 ```bash
 npm run dev
 ```
-5. Open http://localhost:5173/ in your browser to use miniblog.
+6. Open http://localhost:5173/ in your browser to use miniblog.
 
 ## 🌐 Project Link
 
